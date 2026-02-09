@@ -24,4 +24,4 @@
 ---
 
 ### 📬 Contact
-- LinkedIn: https://www.linkedin.com/in/nejra-gutic
+- LinkedIn: https://www.linkedin.com/in/lejla-gutic
