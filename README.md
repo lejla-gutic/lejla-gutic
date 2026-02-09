@@ -8,8 +8,7 @@
 
 ### 🔍 Focus Areas
 - Software systems & application development  
-- Mobile and web applications  
-- Object-oriented programming  
+- Mobile and web applications 
 - Interactive and real-time systems  
 - Machine learning & computer vision
 
