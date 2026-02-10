@@ -1,8 +1,8 @@
 ## Hi, I’m Lejla 👋
 
 🎓 Computer Engineering student  
-🧩 Interested in software systems design and application development  
-🤖 Exploring machine learning and computer vision
+🧩 Focused on software systems and application development  
+🤖 Interested in machine learning and computer vision
 
 ---
 
